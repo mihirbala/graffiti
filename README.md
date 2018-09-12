@@ -10,4 +10,6 @@ This project, at its core, uses SURF feature matching against a key point databa
 
 ## Installation
 
+First, clone the Gabriel Cognitive Assistant repository from [here]:https://github.com/cmusatyalab/gabriel.
 
+Next, install the Android client on your android device.
